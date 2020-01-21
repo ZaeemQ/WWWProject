@@ -2,11 +2,12 @@
 Project for CSI 3140
 
 Group Members:
+
 Zaeem Qureshi 7320339
 Cem Aydin 300041599
 
 Description of the project:
-The project is outliend as follows:
+The project is outlined as follows:
 
 We are aiming to create a financial app that allows one to micromanage their savings. Most people
 only have one or two savings accounts, with just a lump sum amount of money, but most people have more than
